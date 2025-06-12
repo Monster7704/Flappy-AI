@@ -1,6 +1,8 @@
 # Flappy-AI
 Flappy bird Reinforcement learning Ai (a little test for my coding skills)
 
+YOU NEED PYTHON
+
 # Flappy Bird AI 🐤
 
 A reinforcement learning version of Flappy Bird with:
@@ -10,9 +12,12 @@ A reinforcement learning version of Flappy Bird with:
 - Standalone .exe export
 
 ## How to Use
+YOU NEED PYTHON
 
 Run the `.bat` in `flappy_rl`.
 
 (PS. You can open the file using Winrar If you don't already have it its free bro go get it)
+
+YOU NEED PYTHON
 
 (PSS. PUT THE ASSETS FOLDER IN THE DIST FOLDER NEXT TO THE EXE OR IT WILL NOT WORK) 
