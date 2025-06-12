@@ -11,6 +11,6 @@ A reinforcement learning version of Flappy Bird with:
 
 ## How to Use
 
-Run the `.exe` in `dist/flappy_ai.exe`.
+Run the `.bat` in `flappy_rl`.
 
 (PS. You can open the file using Winrar If you don't already have it its free bro go get it)
